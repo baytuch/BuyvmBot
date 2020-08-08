@@ -1,0 +1,7 @@
+{
+  "site": "https://ircnow.org",
+  "api": {
+    "key": "YOUR-KEY-HERE",
+    "hash": "EXAMPLE-HASH-HERE"
+  }
+}
